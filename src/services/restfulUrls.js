@@ -1,5 +1,5 @@
-// export const BASE_URL = "https://api.habit-tracker.yuvrajgupta.in/";
-export const BASE_URL = "http://localhost:8080/";
+export const BASE_URL = "https://api.habit-tracker.yuvrajgupta.in/";
+// export const BASE_URL = "http://localhost:8080/";
 
 export const RestfulUrls = {
   SIGN_UP: "/auth/signup",
