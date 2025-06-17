@@ -197,7 +197,7 @@ const Dashboard = () => {
                         </Accordion.Header>
                         <Accordion.Body className="d-flex align-items-center justify-content-center flex-column">
                           <p className="fs-5 text-primary">
-                            Daily Goal:{" "}
+                            Daily Goal&nbsp;(in {habit.description}):&nbsp;
                             <span className="text-danger">{habit?.goal}</span>
                           </p>
                           <Card className="w-100 shadow-sm">
